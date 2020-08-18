@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<Settings upload-rate="5">
+	<ftp-srv local-path="D:\01_Web\DataFTP\LD\SS4302201\" folder-dir="$yyyy$mm$dd" local-file="*.json" remote-url="ftp://127.0.0.1/AVORS/" remote-user="ftpuser" remote-pwd="ftppwd" />
+</Settings>

@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<DataDB datasource="15.15.0.9" database="HBAirData" user="whltAdmin" passwd="rate@123" port="1433" />
+<Settings upload-rate="1">
+	<ftp-srv local-path="E:\FTP\zip\" local-file="VAQ_*.zip" remote-url="ftp://127.0.0.1/" remote-user="FTPUser" remote-pwd="FTPUser" />
+</Settings>
